@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+replicate
+httpx
+python-dotenv
+langchain
+langchain-groq
+python-dotenv
+psycopg[binary]
