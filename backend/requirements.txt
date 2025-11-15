@@ -7,3 +7,6 @@ langchain
 langchain-groq
 python-dotenv
 psycopg[binary]
+sqlmodel
+langgraph
+langchain-groq
